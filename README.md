@@ -1,7 +1,7 @@
 # encryption_decryption
 
 
-its just a silly little thing where it'll encrypt any message you input and you can decrypt the message you receive to get the original message
+Simple program where it'll encrypt any message you input and you can decrypt the message you receive to get the original message
 
 
 example: 
